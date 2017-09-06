@@ -2,17 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+category: "about"
+tagline: "- it's all about perception."
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p> Hello ! </p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p> I am Brian Weyl, a Computer Engineer and Application Developer. I currently work as a Mainframe Application Developer for HM Health Solutions using COBOL and JCL. I am self taught in these lauanges since they are not generally taught in colleges anymore. When I am not writing COBOL I thoroughly enjoy using Python to create side projects. I have a deep interest in data analysis and most of my personal projects reflect that.</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p>When I am not working I enjoy being outdoors either running, hiking, or exploring with my dog, Bodie.</p>
 
-
-[jekyll-organization]: https://github.com/jekyll
+<p>If you would like to get in contact with me, please do so either via Linkedin or the email at the bottom of the page.</p>
