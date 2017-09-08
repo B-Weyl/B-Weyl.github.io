@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "News Scraper"
-date:   2017-09-04 00:41:44 -0400
+title:  "Web Scraping with Go"
+date:   2017-09-08 00:41:44 -0400
 categories: Blog Post
 ---
 
