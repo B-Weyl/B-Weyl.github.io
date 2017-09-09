@@ -10,7 +10,7 @@ title: Brian's Website
 email: bweyl@udel.edu
 description: Personal Website of Brian Weyl - Powered by Jekyll with Gravity theme
 baseurl: # the subpath of your site, e.g. /blog
-url: "b-weyl.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:  B-Weyl
 paginate: 5
