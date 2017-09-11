@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Twitter Trends Command Line"
-date:   2017-09-04 00:41:44 -0400
+date:   2017-09-11 00:41:44 -0400
 categories: Blog Post
 ---
 
