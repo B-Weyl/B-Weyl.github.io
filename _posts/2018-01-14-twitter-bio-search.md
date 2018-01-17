@@ -7,7 +7,7 @@ categories: Blog Post
 
 # Searching Twitter User Descriptions
 
-## Inspriation and Motivation
+## Inspiration and Motivation
 
 I have recently created a program that could display trending twitter topics of specified locations, compare trends, and display same tweets of a topic and I was
 thinking about what else I could do with Twitter and Python. I had the idea of being able to parse through Twitter User descriptions and find useful information in the user's bio. For example,
