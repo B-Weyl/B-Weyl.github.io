@@ -92,7 +92,7 @@ func RepeatStr(repititions int, value string) string {
 }
 ```
 
-Challenge 4 -
+Challenge 4 - Multiple of Index
 ```
 Return a new array consisting of elements which are multiple of their own index in input array (length > 1).
 
@@ -125,5 +125,92 @@ func multipleOfIndex(ints []int) []int {
 	// good luck
 	fmt.Println(empty)
 	return empty
+}
+```
+
+Challenge 5 - Band Name Generator
+```
+My friend wants a new band name for her band. She like bands that use the formula: 'The' + a noun with first letter capitalized.
+
+dolphin -> The Dolphin
+
+However, when a noun STARTS and ENDS with the same letter, she likes to repeat the noun twice and connect them together with the first and last letter, combined into one word like so (WITHOUT a 'The' in front):
+
+alaska -> Alaskalaska
+
+europe -> Europeurope
+
+Can you write a function that takes in a noun as a string, and returns her preferred band name written as a string?
+```
+
+Solution - 
+```
+package kata
+
+import (
+	"strings"
+)
+
+func bandNameGenerator(word string) string {
+	// Happy coding
+	strLen := len(word)
+	if word[0] == word[strLen-1] {
+		return strings.Title(word) + word[1:]
+	} else {
+		return "The " + strings.Title(word)
+	}
+
+}
+```
+
+Challenge 6 - All Unique
+```
+Write a program to determine if a string contains all unique characters. Return true if it does and false otherwise.
+
+The string may contain any of the 128 ASCII characters.
+```
+
+Solution - 
+```
+package kata
+
+import "fmt"
+
+func HasUniqueChar(str string) bool {
+	var ans = map[rune]bool{}
+	for _, value := range str {
+		ans[value] = true
+	}
+	fmt.Println(ans)
+	return len(ans) == len(str)
+
+}
+```
+
+
+Challenge 7 - Two Oldest Ages
+```
+The two oldest ages function/method needs to be completed. It should take an array of numbers as its argument and return the two highest numbers within the array. The returned value should be an array in the format [second oldest age, oldest age].
+
+The order of the numbers passed in could be any order. The following are some examples of what the method should return (shown in different languages but the logic will be the same between all three).
+
+TwoOldestAges([]int{1,5,87,45,8,8}) // should return [2]int{45,87}
+```
+
+
+Solution - 
+```
+package kata
+
+import (
+	"sort"
+)
+
+func TwoOldestAges(ages []int) [2]int {
+	sort.Ints(ages)
+	var ans [2]int
+	copy(ans[:], ages[len(ages)-2:])
+	return ans
+
 }
 ```
