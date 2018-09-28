@@ -93,14 +93,12 @@ func NewsScrape() {
 
 	// Find the article titles
 	doc.Find(".flm-bundle a .flm-hed").Each(func(i int, s *goquery.Selection) {
-		// For each item found, get the band and title
 		title := s.Find("span").Text()
 		theTitles = append(theTitles, title)
 		// fmt.Printf("Article %d: - %s\n", i, title)
 	})
 	// Find the article links or hrefs
 	doc.Find("a.flm-asset-link").Each(func(i int, s *goquery.Selection) {
-		// For each item found, get the band and title
 		urlToSite, _ := s.Attr("href")
 		theLinks = append(theLinks, urlToSite)
 		// fmt.Printf("Link %d: - %s\n", i, urlToSite)
