@@ -4,55 +4,59 @@ title : Resume
 permalink: /resume/
 ---
 
-## Education
+# Brian Weyl
 
-* University of Delaware(2010 - 2014) - BS in Computer Engineering
-* University of Delaware(2010 - 2014) - Minor in Computer Science
+## Application Developer/Software Engineer - Wilmington, DE
 
-## Work Experience
+* Experienced in Agile Development Team, daily standup meetings, sprint planning, and code reviews. Documented code design documents, wrote requirements, and determined impact analysis of potential coding changes.
 
-* _Associate Application Developer (Mainframe)_- HM Health Solutions
+* Solid foundation in project management, technology implementation, and programming.
 
-  * Develop, maintain, and expand COBOL and JCL codebase. Develop and create new COBOL, JCL, and DB2 programs.
-  * While a part of the ITS team, I developed COBOL programs to assist int he claims processing domain.
-  * Write SQL queries to query millions of claims on DB2 tables.
+* Demonstrated ability to work with business, technology and stakeholders; advanced problem solving, time management, organizational skills and proven leadership capabilities.
 
+* Highly effective working in a high-pressure environment; adept at handling multiple concurrent tasks and adapting to changing requirements.
 
-* _Application Developer (Mainframe)_- HM Health Solutions
+* Effective communicator who can collaborate effectively with technical and non-technical staff.
 
-  * Develop, maintain, and expand COBOL and JCL codebase. Develop and create new COBOL, JCL, and DB2 programs.
-  * Maintain and create new DB2 access components for DB2 tables with high volumes of data. Made structure changes to numerous tables with high volumes of data.
-  * Create and update COBOL programs to keep record of claims for predesignated periods of time before removing them from the database.
-  * As a team member on an Agile Development team, I completed design documents, unit testing, and code reviews.
-  * As a member of an Agile Development team, I used Kanban style tools to create, complete, track stories and tasks related to ongoing development.
-  * Participated in code releases to move new code into deployment in production during scheduled company downtimes.
+## Core Competencies
 
-## Languages
+* Project Management
+* Critical Thinking
+* Troubleshooting
+* Communication
+* Team Leadership
+* Prioritization
+* Customer Service
+* Attention to Detail
+* Presentation Skills
 
-* Strong
-  * Python
-  * COBOL
-  * JCL
-  * JAVA
-  * SQL
-  * Markdown
+## Professional Career Overview
 
+* HM Health Solutions | Wilmington, DE
 
+   Application Developer (2015 - 2019)
+     * Maintained and created new DB2 access components for DB2 tables with high volumes of data.
+     * Proposed and developed structure changes to numerous tables with high volumes of data.
+     * Created and updated COBOL programs to keep record of claims for audit purposes before purging from database.
+     * Member of an Agile Development team, completed design documents, unit testing, and code reviews.
+     * Used Kanban style tools to create, track, and complete tasks, stories, and epics during a sprint period.
+     * Conducted code releases during weekends to move changes to production during scheduled downtimes.
 
-* Enthusiast
-  * Golang
-  * Nimlang
-  * HTML
-  * CSS
+   Associate Application Developer (2014 - 2015)
+     * Developed, maintained, and expanded COBOL and JCL codebase.
+     * Built and created new COBOL and JCL programs that utilized DB2 databases.
+     * Crafted SQL queries to process, maintain, and update millions of rows in DB2 tables.
 
+## Education & Technical Skills
 
+* Bachelor of Science - Computer Engineering / Minor - Computer Science
+   University of Delaware | Newark, DE
 
-## Qualifications
+* Lean Six Sigma Yellow Belt Certification
 
-* Experience in Agile Development Team, daily standup meetings, sprint planning, and code reviews.
-* In my position I documented code design documents, wrote requirements, and determined impact analysis of potential coding changes.
-* While at my job I completed and earned a Lean Six Sigma Yellow Belt Certification.
+* **Languages**
+   Python, SQL, COBOL, JCL, Java
+   (Learning) Golang, Nimlang, HTML/CSS
 
-## Github
-
-You can find my Github [here](https:www.github.com/B-Weyl) where I mostly post projects in Python. However, I am _trying_ to branch out into different languages.
+* Technologies
+   Linux, Windows, macOS, Visual Studio Code, Git, Visio, Rational Tools Concert, Markdown, Agile Methodology
