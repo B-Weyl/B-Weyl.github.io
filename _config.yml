@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Brian's Website
+title: Brian Weyl - Software Engineer
 email: bweyl@udel.edu
 description: Personal Website of Brian Weyl - Powered by Jekyll with Gravity theme
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,6 +15,6 @@ twitter_username:
 github_username:  B-Weyl
 paginate: 5
 
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
