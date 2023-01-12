@@ -32,20 +32,29 @@ permalink: /resume/
 
 ## Professional Career Overview
 
+* Bank of America | Newark, DE
+
+   Application Developer (Dec 2019 - May 2021)
+   * Developed COBOL programs to provide on-demand reports containing current and historical data for use by business colleagues.
+   * Forrmmated and transformaed large datasets to provide clear and concise data specificially for use by business colleagues.
+   * Utilized Agile Development to organize, prioritize, and complete assigned tasks in an accurate and timely manner.
+   * Streamlined parts of the reporting process and formatting data files by writing Python scripts to automate formatting that was previously done manually. 
+
 * HM Health Solutions | Wilmington, DE
 
    Application Developer (2015 - 2019)
      * Maintained and created new DB2 access components for DB2 tables with high volumes of data.
-     * Proposed and developed structure changes to numerous tables with high volumes of data.
-     * Created and updated COBOL programs to keep record of claims for audit purposes before purging from database.
-     * Member of an Agile Development team, completed design documents, unit testing, and code reviews.
-     * Used Kanban style tools to create, track, and complete tasks, stories, and epics during a sprint period.
+     * Proposed and executed structure changes to tables with high volumes of data.
+     * Developed new COBOL programs as wlel as updated existing programs used to store historical data for audit purposes.
+     * Utilized Agile Development Methodologies to create design documents, conduct unit and intergration testing, and participated in code reviews.
+     * Tracked work items using Stories, Tasks, and Epics in Rational Team Concert.
      * Conducted code releases during weekends to move changes to production during scheduled downtimes.
+     * A member of a rotating on-call team tasked with handling abends with the batch process during working and non-working hours.
 
    Associate Application Developer (2014 - 2015)
-     * Developed, maintained, and expanded COBOL and JCL codebase.
-     * Built and created new COBOL and JCL programs that utilized DB2 databases.
-     * Crafted SQL queries to process, maintain, and update millions of rows in DB2 tables.
+     * Demonstrated the ability to learn new technologies and languages by learning COBOL, JCL, and Mainframe utilities on the job.
+     * Maintained COBOl and JCL codebases for historical data.
+     * Designed and devised complex SQL queries to read, update, and or delete data from numerous high volume tables.
 
 ## Education & Technical Skills
 
@@ -59,4 +68,4 @@ permalink: /resume/
    (Learning) Golang, Nimlang, HTML/CSS
 
 * Technologies
-   Linux, Windows, macOS, Visual Studio Code, Git, Visio, Rational Tools Concert, Markdown, Agile Methodology
+   Linux, Windows, macOS, Visual Studio Code, Git, Visio, Rational Team Concert, Markdown, Agile Methodology
